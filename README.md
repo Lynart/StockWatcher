@@ -18,6 +18,7 @@ More search needs to be done for these crashes.
 * Write out the exact patterns for 2008 and 2000 crash
 * Figure out if there are more crashes (use US Index?)
 * Figure out how to use Google or Yahoo's API
+    * http://finance.google.com/finance/info?client=ig&q=INDEXTSI:OSPTX
 * Design the API reader
 * Figure out how to store the data (local database?)
 * Design the algorithmn
